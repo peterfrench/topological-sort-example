@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace App.Test
+namespace App.Tests
 {
 	[TestFixture ()]
 	public class ResourceManagerTest
