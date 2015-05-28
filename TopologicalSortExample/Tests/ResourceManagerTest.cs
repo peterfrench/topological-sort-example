@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace App.Tests
+namespace TopologicalSortExample.Tests
 {
 	[TestFixture ()]
 	public class ResourceManagerTest

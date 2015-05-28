@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSortExample", "Workbench.console\TopologicalSortExample.csproj", "{AEFD2C2D-C111-4D08-A115-B5F7FC18C342}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSortExample", "TopologicalSortExample\TopologicalSortExample.csproj", "{AEFD2C2D-C111-4D08-A115-B5F7FC18C342}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

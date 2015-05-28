@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace App
+namespace TopologicalSortExample
 {
 	public class Resource
 	{
