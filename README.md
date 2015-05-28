@@ -1,6 +1,6 @@
 ## Simple example of Topological Sorting
 
-ResourceManager will sort a list of resources based on their dependencies.
+The ResourceManager class uses topological sorting to sort a list of resources based on their dependencies.
 
 ## Example
 
