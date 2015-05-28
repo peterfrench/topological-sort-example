@@ -11,4 +11,4 @@ manager.AddResource(new Resource("jquery.js"));
 manager.Sort();
 ```
 
-With the above code `jquery.js` will be the first resource for the ResourceManager since `core.js` depends on it.
+In the code above, `jquery.js` will be the first resource for the ResourceManager since `core.js` depends on it.
